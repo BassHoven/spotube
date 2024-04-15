@@ -37,6 +37,7 @@ Btw it's not just another Electron app 😉
 - 🚀 Native performance
 - 📖 Open source/libre software
 - 🔉 Playback control is done locally, not on the server
+- Spotify Connect (sort of)
 
 **¹** It is still **recommended** to support creators by engaging with their YouTube channels/Spotify tracks (or preferably by buying their merch/concert tickets/physical media).
 
